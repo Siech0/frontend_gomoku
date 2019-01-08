@@ -1,0 +1,29 @@
+html{
+	position: relative;
+	min-height: 100%;
+	max-width: 100vw;
+	box-sizing: border-box;
+}
+
+.nav {
+	height: 50px;
+	margin: 0;
+}
+
+body {
+	margin-bottom: 75px;
+	width: 100%;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 75px;
+	margin: 0;
+}
+
+#drawspace {
+	margin: 0;
+
+}
